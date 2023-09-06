@@ -6,10 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Introduction
+## Introduction
 
 This is example is to show different parts of the Git repository and various commands using a web project
 
-##Deployment
+## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
